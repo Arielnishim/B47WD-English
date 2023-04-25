@@ -33,3 +33,11 @@ window
  => example:
     window.innerHeight : will return the height of the content area of the 
     browser
+
+
+
+
+var students={
+    Name:"ariel",
+    Age:24 ,
+    }
